@@ -21,11 +21,13 @@ wheels/
 *.egg
 
 # Virtual Environment
+uv.lock
 venv/
 env/
 ENV/
 .env
 .venv/
+
 
 # IDE
 .idea/
